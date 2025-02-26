@@ -56,10 +56,6 @@ Deberías ver la interfaz de JupyterLab donde podrás abrir el archivo eda.ipynb
 
 - **Datasets:** Archivos de datos que se utilizan en el análisis.
 
-### NOTA
-
-Este proyecto utiliza Docker para empaquetar todo el entorno de ejecución, lo que asegura que el código se pueda ejecutar sin problemas en cualquier sistema, sin tener que preocuparse por dependencias o configuraciones adicionales.
-
 _____________
 
 ¡Espero que disfrutes ejecutando este proyecto y que te haya resultado útil! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
