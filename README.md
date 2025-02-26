@@ -1,6 +1,6 @@
 # Proyecto de Prueba Técnica - Data Science
 
-### NOTA: Este repositorio se ampliará con la puesta en produccion del modelo. Construiré una API y la desplegaré en la nube.
+### Nota: Este repositorio se ampliará con la puesta en produccion del modelo. Construiré una API y la desplegaré en la nube.
 
 ## Descripción
 Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (EDA) y la creación de un modelo de Machine Learning utilizando Docker para empaquetar el código y las dependencias. El código y las dependencias están empaquetados dentro de un contenedor Docker para facilitar su ejecución en cualquier entorno sin necesidad de configuraciones adicionales.
